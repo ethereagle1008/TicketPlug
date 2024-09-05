@@ -38,7 +38,7 @@ at `http://localhost:8000/`.
 
 ## Usage
 To use the E-Ticket System, follow these steps:
-
+ 
 - Create an event as an organizer. This event will be subject to approval by the system administrator.
 - Once approved, users can browse and purchase tickets for the event.
 - Upon purchase, a PDF ticket will be generated containing a QR code.
